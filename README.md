@@ -69,7 +69,7 @@
 > Replace these with links to your real repos.
 
 - 🎯 **Project One** – Short description about what it does, stack used (React, Node, MongoDB, etc.)  
-  🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
+  🔗 [View Repository]([https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1](https://git-hub-profile-finder-mocha.vercel.app/))
 
   
 ---
